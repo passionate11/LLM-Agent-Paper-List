@@ -365,6 +365,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
 #### 1.3.1 Tool Using
+- [2026/01] **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction.** *Xingjie Gao (Northeastern University) et al. arXiv.* [[paper](https://arxiv.org/abs/2601.12762)] [[code](https://github.com/NEUIR/ToolMaster)]
+  - ToolMaster shifts tool learning from imitating golden trajectories to a trial-and-execution paradigm, training agents to trial tools and self-correct via environment interaction (SFT followed by RL), which improves generalization to unseen tools.
 - [2024/02] **Towards Uncertainty-Aware Language Agent.** *Jiuzhou Han (Monash University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.14016)] [[project page](https://uala-agent.github.io)] [[code](https://github.com/Jiuzhouh/Uncertainty-Aware-Language-Agent)]
 - [2023/10] **OpenAgents: An Open Platform for Language Agents in the Wild.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2310.10634)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OpenAgents)] [[demo](https://chat.xlang.ai)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
